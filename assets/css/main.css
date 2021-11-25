@@ -2,13 +2,15 @@
 
 body {
 	background-color: #d8e9f3;
-	font-family: Rubik;
+	font-family: Rubik
 }
 
 .intro {
-	margin-bottom: 40px;
-	text-align: center;
+	margin: 40px 0 40px 0;
+	text-align: center
 }
+
+.intro a {color: #ff9800}
 
 h1 {text-align: center}
 
@@ -27,6 +29,17 @@ h1 {text-align: center}
 	font-weight: bold
 }
 
+.description {
+	display: block;
+	margin-bottom: 10px
+}
+
+.carte {height: 200px}
+.photo {
+	height: 200px;
+	border-radius: 6px
+}
+
 footer {
 	padding: 20px 0;
 	text-align: center
@@ -37,7 +50,7 @@ footer a {
 	color: #000;
 	text-decoration: none;
 	transition-duration: 0.3s;
-	z-index: 1;
+	z-index: 1
 }
 footer a:hover {color: #d8e9f3}
 footer a::before {
