@@ -1,1 +1,11 @@
-body {background-color: orange;}
+@import url("https://fonts.googleapis.com/css2?family=Lilita+One&display=swap");
+
+body {
+	background-color: #d8e9f3;
+	font-family: Rubik;
+}
+
+footer {
+	padding: 10px 0;
+	text-align: center;
+}
