@@ -65,6 +65,12 @@ footer a::before {
 }
 footer a:hover::before {height: 100%}
 
+.copyright {
+	padding-top: 20px;
+	opacity: 0.65;
+	font-size: 12px
+}
+
 /* 600px max */
 @media screen and (max-width: 600px) {
 	h1 {font-size: 29px}
