@@ -36,6 +36,7 @@ h1 {text-align: center}
 
 .carte {height: 200px}
 .photo {
+	max-width: 100%;
 	height: 200px;
 	border-radius: 6px
 }
