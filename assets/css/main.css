@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Lilita+One&display=swap");
 
 body {
-	background-color: #d8e9f3;
 	font-family: Rubik
 }
 
@@ -36,6 +35,7 @@ h1 {text-align: center}
 
 .carte {height: 200px}
 .photo {
+	max-width: 100%;
 	height: 200px;
 	border-radius: 6px
 }
